@@ -1,7 +1,9 @@
-#Cookie Clicker Bot using Selenium
+# Cookie Clicker Bot using Selenium
+
+
 This is a simple Python script that uses the Selenium web driver to automate clicking on the cookie in the popular game Cookie Clicker. The bot is able to automatically click on the cookie, purchase buildings and upgrades, and sell buildings to maximize cookie production.
 
-Requirements
+## Requirements
 To use this bot, you'll need to have the following software installed on your computer:
 
 Python 3
@@ -17,7 +19,7 @@ You'll also need to download the Chrome web driver from the official website: ht
 
 Make sure to select the version that matches your Chrome browser version.
 
-Usage
+## Usage
 To use the bot, follow these steps:
 
 Clone the repository to your local machine.
